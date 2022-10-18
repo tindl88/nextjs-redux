@@ -1,7 +1,6 @@
 import { NextPage } from "next";
 import type { AppProps } from "next/app";
 import { ReactElement, ReactNode } from "react";
-
 import { Provider } from "react-redux";
 
 import { store } from "../states/store";
